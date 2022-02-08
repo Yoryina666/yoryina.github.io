@@ -1,0 +1,59 @@
+﻿body {
+   
+}
+#hobbies {
+    color: #EAEAF9;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#contacto {
+    color: #EAEAF9;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Navegacion {
+    text-align: center;
+    background-color: #03303B;
+}
+
+#Foto {
+    text-align: right;
+}
+
+#divContenido {
+    background-color: #077144;
+    float: left;
+}
+
+li {
+    color: #EAEAF9;
+}
+
+table {
+    color: #EAEAF9;
+    text-align: center;
+    background-color: #7554AF;
+   
+}
+
+caption {
+    color: #EAEAF9;
+    font-size: larger;
+}
+
+footer {
+    background-color: #1D1C1E;
+}
+
+h2 {
+    color: #EAEAF9;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h5 {
+    color: white;
+    text-align: center;
+}
